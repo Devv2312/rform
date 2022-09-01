@@ -1,0 +1,17 @@
+.content{
+    max-width:500px;
+    margin: auto;
+    background-color: bisque;
+    padding: 2% 2%;
+}
+
+button{
+    float:right;
+    margin-right:25px;;
+}
+button:hover{
+    color:whitesmoke;
+}
+.error{
+    color:red;
+}
